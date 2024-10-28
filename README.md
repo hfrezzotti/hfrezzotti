@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hernan Frezzotti</h1>
+<h1 align="center">I'm Hernan Frezzotti</h1>
 <h3 align="center">Begginer Full Stack Developer</h3>
+<img align="right alt="pc" width="1200" height="600" src="https://github.com/user-attachments/assets/21393111-c261-4434-a01d-ef47b1c58fbf">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
